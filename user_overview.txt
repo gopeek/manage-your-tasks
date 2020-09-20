@@ -1,0 +1,56 @@
+
+            Username admin
+            Total Tasks 20
+            Amount of tasks assigned to user 9
+            What percentage of the total number of tasks have been assigned to that user? 45.00%
+            What percentage of the tasks assigned to that user must still be completed? 77.78%
+            What percentage of the tasks assigned to that user have been completed? 22.22%,
+            What percentage of the tasks assigned to that user have not yet been completed and are overdue? 11.11%
+
+            Username gopeek
+            Total Tasks 20
+            Amount of tasks assigned to user 5
+            What percentage of the total number of tasks have been assigned to that user? 25.00%
+            What percentage of the tasks assigned to that user must still be completed? 60.00%
+            What percentage of the tasks assigned to that user have been completed? 40.00%,
+            What percentage of the tasks assigned to that user have not yet been completed and are overdue? 0.00%
+
+            Username ra
+            Total Tasks 20
+            Amount of tasks assigned to user 2
+            What percentage of the total number of tasks have been assigned to that user? 10.00%
+            What percentage of the tasks assigned to that user must still be completed? 50.00%
+            What percentage of the tasks assigned to that user have been completed? 50.00%,
+            What percentage of the tasks assigned to that user have not yet been completed and are overdue? 0.00%
+
+            Username poop
+            Total Tasks 20
+            Amount of tasks assigned to user 0
+            What percentage of the total number of tasks have been assigned to that user? 0.00%
+            What percentage of the tasks assigned to that user must still be completed? 0.00%
+            What percentage of the tasks assigned to that user have been completed? 0.00%,
+            What percentage of the tasks assigned to that user have not yet been completed and are overdue? 0.00%
+
+            Username peter
+            Total Tasks 20
+            Amount of tasks assigned to user 0
+            What percentage of the total number of tasks have been assigned to that user? 0.00%
+            What percentage of the tasks assigned to that user must still be completed? 0.00%
+            What percentage of the tasks assigned to that user have been completed? 0.00%,
+            What percentage of the tasks assigned to that user have not yet been completed and are overdue? 0.00%
+
+            Username vimla
+            Total Tasks 20
+            Amount of tasks assigned to user 3
+            What percentage of the total number of tasks have been assigned to that user? 15.00%
+            What percentage of the tasks assigned to that user must still be completed? 33.33%
+            What percentage of the tasks assigned to that user have been completed? 66.67%,
+            What percentage of the tasks assigned to that user have not yet been completed and are overdue? 33.33%
+
+            Username marley
+            Total Tasks 20
+            Amount of tasks assigned to user 1
+            What percentage of the total number of tasks have been assigned to that user? 5.00%
+            What percentage of the tasks assigned to that user must still be completed? 100.00%
+            What percentage of the tasks assigned to that user have been completed? 0.00%,
+            What percentage of the tasks assigned to that user have not yet been completed and are overdue? 0.00%

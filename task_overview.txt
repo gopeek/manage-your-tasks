@@ -1,0 +1,7 @@
+Total tasks: 20
+ Tasks overdue by date: 5
+ task uncompleted i.e. status No: 13
+ task completed i.e. status Yes: 7
+ task overdue by date and status No: 2
+ Percentage of tasks uncompleted by status No: 65.00%
+ Percentage of tasks uncompleted by due date: 25.00%

@@ -1,0 +1,20 @@
+admin, Register Users, Use taskManager.py, 10 Oct 2019, 20 Oct 2019, No
+gopeek, Do stuff today, buy milk, 15 Aug 2020, 15 Oct 2020, No
+ra, shopping, buy bread, 16 Aug 2020, 20 Nov 2020, No
+gopeek, Do stuff today, buy coffee, 15 Aug 2020, 15 Oct 2020, Yes
+gopeek, Shopping, Buy coffee, 25 Aug 2020, 17 Aug 2020, Yes
+admin, Assign initial tasks, Use taskManager.py, 10 Oct 2019, 25 Oct 2019, Yes
+admin, Assign initial tasks, Use taskManager.py, 10 Oct 2019, 25 Oct 2019, Yes
+gopeek, Do stuff today, buy coffee, 15 Aug 2020, 15 Oct 2020, No
+ra, shopping, buy bread, 16 Aug 2020, 20 Nov 2020, Yes
+vimla, shopping, buy bread, 16 Aug 2020, 20 Nov 2020, Yes
+vimla, shopping, buy bread, 16 Aug 2020, 20 Nov 2020, Yes
+vimla, shopping, buy bread, 16 Aug 2020, 16 Nov 2000, No
+marley, Shopping, buy smokes, 28 Aug 2020, 12 Nov 2020, No
+admin, Shopping, buy cheese, 28 Aug 2020, 20 Nov 2020, No
+admin, Shopping, buy meat, 28 Aug 2020, 14 Nov 2020, No
+admin, Shopping, buy oranges, 28 Aug 2020, 12 Nov 2020, No
+gopeek, Shopping, buy jeans, 28 Aug 2020, 20 Nov 2020, No
+admin, Shopping, buy socks, 28 Aug 2020, 12 Nov 2020, No
+admin, Shopping, buy underwear, 28 Aug 2020, 20 Nov 2020, No
+admin, SHopping, buy chicken, 28 Aug 2020, 20 Nov 2020, No
